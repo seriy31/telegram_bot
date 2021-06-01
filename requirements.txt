@@ -9,7 +9,7 @@ optional-django==0.1.0
 plumber==1.5
 python-dateutil==1.5
 requests==2.19.1
-urllib3==1.23
+urllib3==1.26.5
 virtualenv==16.0.0
 zope.component==4.4.1
 zope.deprecation==4.3.0
